@@ -1,4 +1,4 @@
-# Business Insight 360 — AtliQ Hardware Power BI Dashboard
+# Business Insight 360 - AtliQ Hardware Power BI Dashboard
 
 An end-to-end business intelligence dashboard built in Power BI, consolidating **Finance, Sales, Marketing, Supply Chain, and Executive** views into a single decision-support tool for AtliQ Hardware, a consumer electronics distributor operating across APAC, NA, EU, and LATAM.
 
