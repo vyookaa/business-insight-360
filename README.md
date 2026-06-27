@@ -4,7 +4,6 @@ An end-to-end business intelligence dashboard built in Power BI, consolidating *
 
 The goal wasn't just to visualize data — it was to trace *why* AtliQ's profitability was breaking down despite strong revenue, and surface that story across five functional lenses a real leadership team would actually use.
 
-![Executive Dashboard](screenshots/executive.png)
 
 ---
 
