@@ -66,7 +66,6 @@ DIVIDE([Gross Margin %] - [Gross Margin % BM], [Gross Margin % BM], 0)
 
 ## Data Model
 
-*(insert a screenshot of your relationships view here — `docs/data-model.png`)*
 
 Fact table (`Transactions`) connects to `Dim_Customer`, `Dim_Product`, `Dim_Region`, and `Dim_Date` on standard 1-to-many relationships, with a separate `Benchmark` table joined on Product/Region/Period for the variance calculations used throughout the Executive and Finance views.
 
